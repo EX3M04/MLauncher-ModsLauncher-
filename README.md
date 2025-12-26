@@ -28,16 +28,16 @@ MLauncher (ModsLauncher) — это специализированный лау�
 
 Прямые ссылки:
 
-· GitHub (рекомендуется)
-· MediaFire
+· GitHub (https://github.com/EX3M04/MLauncher-ModsLauncher-/raw/refs/heads/main/ModsLAUNCHER.apk)
+· MediaFire (https://www.mediafire.com/file/hs7tmfejxiw11tj/ModsLAUNCHER.apk/file)
 
 Альтернативные способы:
 
-· Telegram канал: @ModsLauncher
+· Telegram канал: t.me/ModsLauncher
 
 # ⚙️ Установка
 
-1. Скачайте файл ModsLAUNCHER.apk
+1. Скачайте файл ModsLAUNCHER.apk из MediaFire или GitHub.
 2. В настройках Android разрешите установку приложений из неизвестных источников
 3. Откройте скачанный файл и подтвердите установку
 4. Запустите MLauncher и начните использовать
