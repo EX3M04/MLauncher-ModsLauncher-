@@ -28,8 +28,8 @@ MLauncher (ModsLauncher) — это специализированный лау�
 
 Прямые ссылки:
 
-· GitHub (https://github.com/EX3M04/MLauncher-ModsLauncher-/raw/refs/heads/main/ModsLAUNCHER.apk)
-· MediaFire (https://www.mediafire.com/file/hs7tmfejxiw11tj/ModsLAUNCHER.apk/file)
+· GitHub (<a href="https://github.com/EX3M04/MLauncher-ModsLauncher-/raw/refs/heads/main/ModsLAUNCHER.apk">Нажми чтобы скачать</a>)
+· MediaFire (<a href="https://www.mediafire.com/file/hs7tmfejxiw11tj/ModsLAUNCHER.apk/file">Нажми чтобы скачать</a>)
 
 Альтернативные способы:
 
