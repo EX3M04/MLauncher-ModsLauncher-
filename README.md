@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" alt="Platform">
-  <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.1-blue?style=for-the-badge" alt="Version">
   <img 
 </p>
 
